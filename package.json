@@ -1,0 +1,23 @@
+{
+  "name": "coding-excercises",
+  "version": "1.0.0",
+  "description": "TBC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yasin2201/coding-excercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yasin2201/coding-excercises/issues"
+  },
+  "homepage": "https://github.com/Yasin2201/coding-excercises#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
